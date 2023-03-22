@@ -1,0 +1,8 @@
+Contributed code to the following files
+-AddProduct.java
+-BetterAddProduct.java
+-DeleteProduct.java
+-Everything.java
+-PurchaseProduct.java
+-Restock.java
+-Warehouse.java
